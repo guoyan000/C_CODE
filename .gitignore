@@ -1,0 +1,8 @@
+.vs/
+*.sln
+*.suo
+Debug/
+Release/
+*.obj
+*.exe
+*.json
