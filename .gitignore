@@ -1,8 +1,9 @@
-.vs/
-*.sln
-*.suo
-Debug/
-Release/
-*.obj
-*.exe
-*.json
+**/.vs/
+**/*.sln
+**/*.suo
+**/Debug/
+**/Release/
+**/*.obj
+**/*.exe
+**/*.json
+**/*.vcxproj*
